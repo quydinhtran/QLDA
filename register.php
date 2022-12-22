@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Chương Mobile - Đăng ký tài khoản</title>
-    <link rel="icon" href="./upload/img/logochuongmobile.png">
+    <title>Mobile Store - Đăng ký tài khoản</title>
+    <link rel="icon" href="./upload/img/logomobile.png">
     <link rel="stylesheet" href="script/css/loginuser.css">
 </head>
 <body>
