@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
     <meta charset="UTF-8">
-    <title>QUẢN TRỊ CHƯƠNG MOBILE</title>
+    <title>QUẢN TRỊ MOBILE </title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="../script/css/adminstyle.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
@@ -44,7 +44,6 @@
             </div>
             <ul class="sub-menu">
                 <li><a class="link_name" href="#">Đơn hàng</a></li>
-                <li><a href="?select=unprocessed-order">Chờ xử lý</a></li>
                 <li><a href="?select=delivery-order">Chờ giao hàng</a></li>
             </ul>
         </li>
